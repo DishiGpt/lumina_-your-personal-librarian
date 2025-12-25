@@ -1,0 +1,5 @@
+{
+  "name": "Lumina: Your Personal Librarian",
+  "description": "An intelligent book recommendation engine that uses AI to map your reading history, movie tastes, and preferred moods to discover your next favorite read.",
+  "requestFramePermissions": []
+}
